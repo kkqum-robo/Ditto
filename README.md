@@ -1,4 +1,4 @@
-# 🛡️ Haven (or Ditto) — The Anonymous Recovery & Trauma Support Ecosystem
+# 🛡️ Ditto(us bro us) — The Anonymous Recovery & Trauma Support Ecosystem
 
 > **Built in 12 Hours for Hacktoberfest 2026** 🚀  
 > A privacy-first, mobile-responsive web platform designed to support individuals navigating addiction recovery, self-harm urges, identity struggles, and severe personal trauma without facing societal stigma.
@@ -13,7 +13,7 @@ Existing recovery applications feel overly clinical, cold, or sterile, failing t
 
 ## ✨ Our Dynamic Solution
 
-**Haven** completely reimagines recovery by combining an ultra-private, modern "Ghost Mode" social ecosystem with advanced AI safety layers and dynamic automation tools. 
+**Ditto** completely reimagines recovery by combining an ultra-private, modern "Ghost Mode" social ecosystem with advanced AI safety layers and dynamic automation tools. 
 
 Instead of traditional likes, users exchange life-affirming peer support reactions (**"Proud" 🙌, "Stay Strong" 💪, "Inspirational" ✨**), transforming isolation into a safe, connected sanctuary of collective healing.
 
