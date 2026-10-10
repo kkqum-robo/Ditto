@@ -1,6 +1,6 @@
-# 🛡️ Ditto(us bro us) — The Anonymous Recovery & Trauma Support Ecosystem
+# 🛡️ Ditto(us bro us) — The Anonymous Trauma & Recovery Ecosystem
 
-> **Built in 12 Hours for Hacktoberfest 2026** 🚀  
+> **Built for Hacktoberfest 2026** 🚀  
 > A privacy-first, mobile-responsive web platform designed to support individuals navigating addiction recovery, self-harm urges, identity struggles, and severe personal trauma without facing societal stigma.
 
 ---
@@ -28,20 +28,27 @@ Instead of traditional likes, users exchange life-affirming peer support reactio
 
 ---
 
-## 🔌 Hackathon Sponsor Integrations & Architecture
+## 🔌 Hackathon Sponsor Integrations & AI Architecture
 
-To elevate this project beyond a simple UI prototype under the strict **12-hour limit**, we successfully integrated and conceptualized the event’s core partner API ecosystems:
+To maximize utility, safety, and system design under our strict sprint limits, we engineered a multi-model ecosystem targeting key partner tracks:
 
-### 1. 🎤 ElevenLabs — Vocal Sanctuary Engine
+### 1. 🧠 Google DeepMind Gemma 4 — Open-Weight Content Guardian
+*   **Why it matters:** Localized open-weight processing ensures complete patient/user privacy. Personal trauma logs should never be processed on open cloud pipelines.
+*   **The Implementation:** We utilize **Gemma 4** as our primary local guardrail classification engine. Gemma reads text entries as they are typed, executing open-weight sentiment parsing to catch severe trigger markers before they are broadcast onto public feeds.
+
+### 2. 🎤 ElevenLabs — Vocal Sanctuary Engine
 *   **Why it matters:** When an individual is in the middle of a high-anxiety panic attack, a crushing craving, or a self-harm crisis at 2 AM, reading small text blocks on a bright device screen is intensely frustrating.
 *   **The Implementation:** We deployed **ElevenLabs Voice AI** to convert therapeutic stabilization and grounding scripts into comforting, hyper-realistic ambient narration. With a single click on our visual waveform buttons, the app streams a soothing voice out loud to guide users through heavy moments in real-time.
 
-### 2. 🤖 n8n — Proactive Crisis Automation Hub
+### 3. 🤖 Anthropic Claude — Interface Orchestration
+*   **The Implementation:** We integrated **Claude** into our development stack to rapidly compile advanced frontend modules, optimize code compilation routines, and design complex aesthetic logic for responsive web views.
+
+### 4. 🤖 n8n — Proactive Crisis Automation Hub
 *   **Why it matters:** Peer networks are most effective when critical flags instantly connect to active human containment vectors.
 *   **The Implementation:** Our web application links directly to an **n8n workflow ecosystem**. The moment the frontend boundary detects a crisis or extreme relapse trigger text, it fires a structural payload to an active n8n webhook node. This node bypasses cloud delays to immediately alert on-call community monitors or verified support teams over secure communication vectors like Discord.
 
-### 3. 🌐 .xyz — Modern Branding & Deployment
-*   **The Implementation:** The application is deployed live over a sleek `.xyz` domain asset pool, ensuring a premium, web-native experience that mirrors consumer-ready tech environments.
+### 5. 🧮 169pi — Behavioral Data Intelligence
+*   **The Implementation:** We map user metrics against **169pi's** data science frameworks to conceptualize an interface tracker tab that safely logs recovery velocity and habit pacing over time, offering deep, secure progress tracking for the user.
 
 ---
 
@@ -53,7 +60,7 @@ To elevate this project beyond a simple UI prototype under the strict **12-hour 
    ```
 2. Navigate into the application root workspace:
    ```bash
-   cd ditto-recovery-space
+   cd Ditto
    ```
 3. Drop your downloaded ElevenLabs generated audio snippet into this directory and name it exactly: **`affirmation.mp3`**
 4. Open the primary document interface inside any modern standard desktop web browser:
